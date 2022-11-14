@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2022-11-14T13:41:46.749999276-08:00"
+    digest: e1da7cc72c381512c75bec8e6c6b392941efa9c54d68678efbc760ff8bc84507
+    name: wordpress
+    urls:
+    - https://yassine-ayadi.github.io/wordpress-chart/wordpress-0.3.tgz
+    version: "0.3"
+generated: "2022-11-14T13:41:46.74923995-08:00"
